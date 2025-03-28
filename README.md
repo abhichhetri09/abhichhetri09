@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working as a Frontend Developer intern at Vesko Ltd, where I'm developing responsive website and mobile application using React, TypeScript, Tailwind CSS, react-native, expo. I'm also contributing to the development of the business site **vesko.fi**.<br> 
+🔭 Frontend Developer | Eventti
+
+Maintained and enhanced the company's website using Laravel, PHP, and MySQL.
 👯 I’m looking to collaborate on innovative web development and mobile development projects, especially those that leverage modern frontend technologies like React and TypeScript.<br> 
 🤝 I’m looking for help with expanding my knowledge in cloud technologies (AWS, Azure) and improving my backend development skills.<br> 
 🌱 I’m currently learning more about cloud platforms and backend technologies, while also working on data management solutions.<br> 
