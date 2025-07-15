@@ -1,16 +1,35 @@
 # 👋 Hi there, I'm Abhishek Khati Chhetri
 
-🚀 I'm a Frontend & Mobile Developer based in Helsinki, Finland.  
+🚀 Full Stack Software Engineer based in Helsinki, Finland
 🎓 Bachelor’s in Business Information Technology – Haaga-Helia UAS  
 💻 Passionate about building responsive, accessible, and scalable web & mobile applications.
 
 ## 🔧 What I Do
+💼 Hoviber | Full Stack Software Engineer
+July 2025 – Present
 
-### 💼 Vesko Ltd | Frontend & Mobile Developer
-- Developed Vesko’s official business website using **React**, **Vite**, **TypeScript**, and **Tailwind CSS**
-- Currently building Vesko’s cross-platform **mobile app** using **React Native (Expo)** and **TypeScript**
-- Collaborate with designers using **Figma** and manage tasks with **Jira**
-- Work on UI/UX, reusable components, and performance optimization
+Building a cross-platform student mobile app using React Native (Expo) and TypeScript
+
+Designed and implemented features like custom calendars, bottom tab navigation, and hamburger menus
+
+Working on backend integrations, bug fixes, and performance improvements
+
+Collaborating closely with the product and UI/UX teams for seamless delivery
+
+Supporting architectural decisions and contributing to frontend scalability
+
+💼 Vesko Ltd | Frontend & Mobile Developer
+July 2024 – July 2025
+
+Developed the official company website using React, Vite, TypeScript, and Tailwind CSS
+
+Built a cross-platform mobile app with React Native (Expo)
+
+Handled UI/UX in Figma, project coordination in Jira, and component library management
+
+Implemented backend services with Firebase, state management, and responsive design best practices
+
+
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
