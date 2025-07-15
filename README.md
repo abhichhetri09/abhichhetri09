@@ -5,7 +5,7 @@
 💻 Passionate about building responsive, accessible, and scalable web & mobile applications.
 
 ## 🔧 What I Do
-💼 Hoviber | Full Stack Software Engineer
+💼 Hoviber | International Project Manager
 July 2025 – Present
 
 Building a cross-platform student mobile app using React Native (Expo) and TypeScript
