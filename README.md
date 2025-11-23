@@ -1,34 +1,33 @@
-# 👋 Hi there, I'm Abhishek Khati Chhetri
+👋 Hi, I'm Abhishek Khati Chhetri
 
-🚀 Full Stack Software Engineer based in Helsinki, Finland
-🎓 Bachelor’s in Business Information Technology – Haaga-Helia UAS  
-💻 Passionate about building responsive, accessible, and scalable web & mobile applications.
+Full Stack Software Engineer based in Helsinki, Finland
 
-## 🔧 What I Do
-💼 Hoviber | International Project Manager
-July 2025 – Present
+🚀 About Me
 
-Building a cross-platform student mobile app using React Native (Expo) and TypeScript
+I build responsive, accessible, and scalable web & mobile applications using modern technologies.
 
-Designed and implemented features like custom calendars, bottom tab navigation, and hamburger menus
+Full Stack Software Engineer @ Hoviber
 
-Working on backend integrations, bug fixes, and performance improvements
+Former Frontend & Mobile Developer @ Vesko Ltd
 
-Collaborating closely with the product and UI/UX teams for seamless delivery
+Bachelor's in Business Information Technology – Haaga-Helia UAS
 
-Supporting architectural decisions and contributing to frontend scalability
+💼 Experience
+Hoviber — International Project Manager (2025–Present)
 
-💼 Vesko Ltd | Frontend & Mobile Developer
-July 2024 – July 2025
+Building a cross-platform student app with React Native (Expo) & TypeScript
 
-Developed the official company website using React, Vite, TypeScript, and Tailwind CSS
+Implemented navigation, custom calendar, menus, and backend integrations
 
-Built a cross-platform mobile app with React Native (Expo)
+Collaborating with UI/UX & managing frontend scalability
 
-Handled UI/UX in Figma, project coordination in Jira, and component library management
+Vesko Ltd — Frontend & Mobile Developer (2024–2025)
 
-Implemented backend services with Firebase, state management, and responsive design best practices
+Developed company website with React, Vite, TypeScript, Tailwind
 
+Built a mobile app using React Native (Expo)
+
+UI/UX in Figma, project coordination in Jira, Firebase services
 
 
 # 💻 Tech Stack:
